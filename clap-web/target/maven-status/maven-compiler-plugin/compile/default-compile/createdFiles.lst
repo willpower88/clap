@@ -1,0 +1,7 @@
+com/willpower/clap/ClapApplication.class
+com/willpower/clap/web/controller/RoleController.class
+com/willpower/clap/web/controller/PersonsController.class
+com/willpower/clap/web/conf/Swagger2.class
+com/willpower/clap/web/controller/HomeController.class
+com/willpower/clap/web/conf/SpringWebMvcConfig.class
+com/willpower/clap/web/controller/UserInfoController.class

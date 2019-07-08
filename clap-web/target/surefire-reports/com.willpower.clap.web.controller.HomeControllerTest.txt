@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.willpower.clap.web.controller.HomeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 18.337 s <<< FAILURE! - in com.willpower.clap.web.controller.HomeControllerTest
+login(com.willpower.clap.web.controller.HomeControllerTest)  Time elapsed: 0.376 s  <<< ERROR!
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton.  This is an invalid application configuration.
+	at com.willpower.clap.web.controller.HomeControllerTest.login(HomeControllerTest.java:51)
+Caused by: org.apache.shiro.UnavailableSecurityManagerException: No SecurityManager accessible to the calling code, either bound to the org.apache.shiro.util.ThreadContext or as a vm static singleton.  This is an invalid application configuration.
+	at com.willpower.clap.web.controller.HomeControllerTest.login(HomeControllerTest.java:51)
+

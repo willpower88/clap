@@ -1,0 +1,8 @@
+com/willpower/clap/entity/Persons.class
+com/willpower/clap/mapper/UserInfoMapper.class
+com/willpower/clap/mapper/SysPermissionMapper.class
+com/willpower/clap/entity/SysRole.class
+com/willpower/clap/mapper/PersonsMapper.class
+com/willpower/clap/mapper/SysRoleMapper.class
+com/willpower/clap/entity/UserInfo.class
+com/willpower/clap/entity/SysPermission.class

@@ -1,0 +1,7 @@
+com/willpower/clap/service/UserInfoService.class
+com/willpower/clap/service/impl/UserInfoServiceImpl.class
+com/willpower/clap/ServiceApplication.class
+com/willpower/clap/service/PersonsService.class
+com/willpower/clap/service/RoleService.class
+com/willpower/clap/service/impl/PersonsServiceImpl.class
+com/willpower/clap/service/impl/RoleServiceImpl.class

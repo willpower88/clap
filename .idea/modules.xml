@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clap.iml" filepath="$PROJECT_DIR$/clap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap-api/clap-api.iml" filepath="$PROJECT_DIR$/clap-api/clap-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap-model/clap-model.iml" filepath="$PROJECT_DIR$/clap-model/clap-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap-service/clap-service.iml" filepath="$PROJECT_DIR$/clap-service/clap-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap-shiro/clap-shiro.iml" filepath="$PROJECT_DIR$/clap-shiro/clap-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap-util/clap-util.iml" filepath="$PROJECT_DIR$/clap-util/clap-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clap-web/clap-web.iml" filepath="$PROJECT_DIR$/clap-web/clap-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+08:30:06 [HikariPool-1 housekeeper] DEBUG c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+08:30:35 [Thread-6] DEBUG o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6bc407fd, started on Mon Jul 08 15:09:48 CST 2019
+08:30:35 [Thread-6] DEBUG o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147483647
+08:30:35 [Thread-6] DEBUG o.s.c.s.DefaultLifecycleProcessor - Bean 'documentationPluginsBootstrapper' completed its stop procedure
+08:30:35 [Thread-6] DEBUG o.s.d.r.l.RedisMessageListenerContainer - Stopped RedisMessageListenerContainer
+08:30:35 [Thread-6] DEBUG io.lettuce.core.RedisClient - Initiate shutdown ([100, 100, MILLISECONDS], [100, 100, MILLISECONDS], {})
+08:30:35 [Thread-6] DEBUG i.l.c.r.DefaultClientResources - Initiate shutdown ([0, 2, SECONDS], [0, 2, SECONDS], {})
+08:30:35 [Thread-6] DEBUG i.l.c.r.DefaultEventLoopGroupProvider - Initiate shutdown ([0, 2, SECONDS], [0, 2, SECONDS], {})
+08:30:35 [Thread-6] DEBUG o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+08:30:35 [Thread-6] DEBUG o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans
+08:30:35 [Thread-6] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+08:30:35 [Thread-6] DEBUG o.h.internal.SessionFactoryImpl - HHH000031: Closing
+08:30:35 [Thread-6] DEBUG o.h.t.s.TypeConfiguration$Scope - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@73e0d23d] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@3ba5c4dd]
+08:30:35 [Thread-6] DEBUG o.h.s.i.AbstractServiceRegistryImpl - Implicitly destroying ServiceRegistry on de-registration of all child ServiceRegistries
+08:30:35 [Thread-6] DEBUG o.h.b.r.i.BootstrapServiceRegistryImpl - Implicitly destroying Boot-strap registry on de-registration of all child ServiceRegistries
+08:30:35 [Thread-6] INFO  c.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+08:30:35 [Thread-6] DEBUG c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@29d19fa8: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@49fe60e7: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@4db05da8: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@2fd24722: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@1429c32b: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@5265f3a9: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@10b252a2: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@3879a93e: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@3b8cb8a9: (connection evicted)
+08:30:35 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.jdbc.JDBC4Connection@2e11f218: (connection evicted)
+08:30:35 [Thread-6] DEBUG c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+08:30:35 [Thread-6] INFO  c.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

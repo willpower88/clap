@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clap-web" charset="UTF-8" />
+  </component>
+</project>
